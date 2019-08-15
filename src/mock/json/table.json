@@ -1,0 +1,133 @@
+{
+  "result": "success",
+  "msg": "",
+  "A": [{
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-08",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-10",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-13",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-18",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-23",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-25",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }],
+  "B": [{
+    "date": "2016-05-27",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-28",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }],
+  "C": [{
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }, {
+    "date": "2016-05-03",
+    "name": "王小虎",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "isSelected": true,
+    "isModify": "否"
+  }]
+}
